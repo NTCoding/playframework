@@ -153,6 +153,7 @@ Knoldus has a nice series of blog posts on Anorm:
 #### User Interface
 
 * [Composite user interface without boilerplate using Play 2](http://julien.richard-foy.fr/blog/2012/02/26/composite-user-interface-without-boilerplate-using-play-2/) by Julien Foy.
+* [UX-friendly conditional form mapping in Play](http://blog.ntcoding.com/2016/02/play-framework-conditional-form-mappings.html) by the VOA
 
 #### Play in Practice
 
